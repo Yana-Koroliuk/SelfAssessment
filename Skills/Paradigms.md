@@ -5,62 +5,62 @@
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 👂 heard
-  - Functional programming: 👂 heard
-  - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🖐️ used
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🙋 explained
   - Object-based programming: 🖐️ used
-  - Generic programming: 🎓 known
-  - Concurrent computing: 👂 heard
-  - Asyncronous programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 🖐️ used
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive): 👂 heard
-  - Automata-based programming
-  - Domain-specific languages
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
-  - Actor model
+  - Actor model: 🎓 known
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 👂 heard
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used
-  - Polymorphism: 🖐️ used
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
-  - Encapsulation: 🎓 known
-  - Hidden class: 🎓 known
-  - Object form: 🎓 known
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🖐️ used
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
   - instance: 🖐️ used
-  - Introspection: 🎓 known
+  - Introspection: 🖐️ used
   - Reflection: 🎓 known
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method: 🎓 known
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy: 👂 heard
-  - Facade: 👂 heard
-  - Proxy: 👂 heard
+  - Singleton: 🙋 explained
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🖐️ used
   - Chain of Responsibility: 👂 heard
-  - Command: 👂 heard
-  - Iterator: 👂 heard
-  - State: 👂 heard
-  - Bridge: 👂 heard
-  - Builder: 👂 heard
-  - Prototype: 👂 heard
-  - Composite: 👂 heard
-  - Decorator: 👂 heard
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method: 👂 heard
-  - Visitor: 👂 heard
+  - Command: 🖐️ used
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🖐️ used
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 👂 heard
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
