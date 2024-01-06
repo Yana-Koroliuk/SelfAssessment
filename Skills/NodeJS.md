@@ -22,14 +22,14 @@
   - Module-based permissions model
   - Isolation with modularity: 🎓 known
   - Dependency injection: 🎓 known
-  - DI containers
+  - DI containers: 🎓 known
   - Coupling and cohesion: 🎓 known
   - Framework agnostic approach
 - Environment
   - Command line arguments: 🎓 known
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown: 🎓 known
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
@@ -61,17 +61,17 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer: 🎓 known
-  - Multilayer approach: 🎓 known
-  - Separation of concerns: 🎓 known
-  - Inversion of control: 🎓 known
-  - Dependency injection: 🎓 known
-  - GRASP: 🎓 known
-  - SOLID: 🎓 known
-  - GoF patterns: 👂 heard
+  - Isolation between layer: 🖐️ used
+  - Multilayer approach: 🖐️ used
+  - Separation of concerns: 🖐️ used
+  - Inversion of control: 🖐️ used
+  - Dependency injection: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🎓 known
   - Distributed systems
   - Highload applications
-  - Clean architecture: 🎓 known
+  - Clean architecture: 🖐️ used
   - DDD
   - Message Queue
   - CQS
@@ -107,43 +107,43 @@
   - IncomingMessage
   - SQL injection: 🎓 known
   - noDelay
-  - keep-alive
+  - keep-alive: 👂 heard
   - ALPN
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner: 🎓 known
-  - Logging
-  - Application configuring
-  - Testing: 🎓 known
-  - CI/CD: 🎓 known
-  - Readable
-  - Writable
-  - Transform
+  - Native test runner: 🖐️ used
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
   - back pressure
   - Buffer: 🎓 known
   - Console: 🎓 known
   - Inspector
-  - Reliability: 🎓 known
-  - Quality: 🎓 known
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
   - Availability: 🎓 known
   - Flexibility: 🎓 known
 - Data access
-  - Data access layer: 👂 heard
-  - Repository: 👂 heard
-  - Active record: 🎓 known
-  - Query builder: 🎓 known
-  - Object-Relational Mapping
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
+  - Active record: 🖐️ used
+  - Query builder: 🖐️ used
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
-  - Error: 🎓 known
-  - error.cause: 🎓 known
-  - error.code: 🎓 known
-  - error.message: 🎓 known
-  - error.stack: 🎓 known
+  - Error: 🖐️ used
+  - error.cause: 🖐️ used
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
+  - error.stack: 🖐️ used
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions: 👂 heard
+  - Uncaught exceptions: 🎓 known
   - Heap dump: 🎓 known
   - Debugging tools: 🎓 known
   - Flame graph
